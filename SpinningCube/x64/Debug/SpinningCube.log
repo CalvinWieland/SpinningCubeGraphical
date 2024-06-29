@@ -1,0 +1,7 @@
+﻿  Display.cpp
+C:\Users\calvi\Documents\CPTS\Random\SpinningCube\SpinningCube\Display.cpp(510,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\calvi\Documents\CPTS\Random\SpinningCube\SpinningCube\Display.cpp(518,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\calvi\Documents\CPTS\Random\SpinningCube\SpinningCube\Display.cpp(529,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\calvi\Documents\CPTS\Random\SpinningCube\SpinningCube\Display.cpp(545,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\calvi\Documents\CPTS\Random\SpinningCube\SpinningCube\Display.cpp(557,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  SpinningCube.vcxproj -> C:\Users\calvi\Documents\CPTS\Random\SpinningCube\x64\Debug\SpinningCube.exe
